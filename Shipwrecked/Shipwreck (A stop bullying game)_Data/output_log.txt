@@ -1,0 +1,58 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5300 (ID=0x161e)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.082 seconds
+Platform assembly: C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\NIC0013\Downloads\ICT Explorers\Shipwrecked\Shipwreck (A stop bullying game)_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.828280 ms
+Joystick disconnected ("USB Joystick          ").
+ 
+(Filename:  Line: 714)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 144 -> priority: 1 
+Joystick reconnected ("USB Joystick          ").
+ 
+(Filename:  Line: 1325)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.092057 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 938.
+Total: 0.238117 ms (FindLiveObjects: 0.048239 ms CreateObjectMapping: 0.033870 ms MarkObjects: 0.139586 ms  DeleteObjects: 0.015395 ms)
+
